@@ -8,3 +8,15 @@
 .nav{
     color: white;
 }
+.btn-outline-light.active,
+.btn-outline-light:hover{
+    border-radius: 45px;
+    padding: 5px 15px;
+    background-color: rgba(225, 225, 225, .5);
+    border: 1px solid #fff;
+    color: #fff;}
+
+    .btn-outline-light{
+        padding: 5px 15px;
+        border: none;
+    }
